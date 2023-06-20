@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Aram-Su&fontSize=90&fontColor=6F3EE5)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Aram-Su&fontSize=90&fontColor=7E3ACD)
 
 
 ![aram-su's github stats](https://github-readme-stats.vercel.app/api?username=aram-su&theme=midnight-purple&show_icons=true)
