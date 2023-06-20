@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Aram-Su&fontSize=90&fontColor=6F3EE5)
 
 <!--
 **Aram-su/aram-su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
